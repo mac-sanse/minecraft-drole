@@ -1,0 +1,35 @@
+body 
+{
+	background-color : grey;
+}
+
+h1
+{
+	text-align: center;
+	color: purple;
+}
+h4 {
+	text-align: left;
+	color: green;
+
+}
+ol {
+	text-align: left;
+	color: green;
+}
+
+button {
+	background: url(images/creeper.png);
+	text-align: center;
+	text-transform: capitalize;
+	height: 84px;
+	width: 92px;
+
+}
+.input-age {
+	width: 50px ;
+}
+
+.patate {
+	text-align: right;
+}
